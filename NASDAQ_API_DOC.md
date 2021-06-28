@@ -2,8 +2,9 @@
 
 I haven't found any other documentation online, and have found this api by backtracking through other site's resources.
 
-If you know of any other documentation, or have anything to add, please let me know! (this is far from complete)
+If you know of any other documentation, or have anything to add, please let me know! (this is likely not complete)
 
+An additional REST API is the yahoo finance one ([for example](https://query1.finance.yahoo.com/v7/finance/quote?symbols=AAPL,AMC,CLNE,NIO,WISH&fields=symbol,shortName,longName,regularMarketPrice,regularMarketChange,regularMarketChangePercent), [and another[(https://query1.finance.yahoo.com/v8/finance/chart/MSFT?region=US&lang=en-US&includePrePost=false&interval=1mo&useYfid=true&range=max&corsDomain=finance.yahoo.com&.tsrc=finance))
 
 endpoint urls:  
 
